@@ -47,3 +47,4 @@ for (rotation in input){
   }
   start <- start %% 100
 }
+
